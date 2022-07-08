@@ -6,26 +6,23 @@
 <h1><code>About Me</code></h1>
 
 ```TypeScript
-    function GalaxyTea1()
-    {
-        let About = 
-        {
-            string Name = "Đặng Nhật Minh";
-            string Age = "2002";
-            string Gender = "Male";
-            string Address = "Kỳ Anh, Hà Tĩnh";
-            any Skills = {
-                FrontEnd = "ReactJs, Redux, Redux Saga, AngularJS",
-            };
-            string FamousQuotes = "Nothing";
-        }
+const GetAboutMe() : any => {
+    string Name = "Đặng Nhật Minh",
+    string Age = "2002",
+    string Gender = "Male",
+    string Address = "Kỳ Anh, Hà Tĩnh",
+    let Skills = {
+        string FrontEnd = "ReactJs, Redux, Redux Saga, AngularJS",
+        string Backend = "NodeJs, NestJs, DotNet",
+        string Database = "MySQL, MongoDB, PostgreSQL",
+        string DevOps = "Docker, Linux OS, NGINX"
     }
+}
 ```
 
 <h1><code>Skill</code></h1>
-<div style="width: 100%">
-    <img style="margin: 0 auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangnhatminh09032002&theme=github"/>
-</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangnhatminh09032002&theme=github)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dangnhatminh09032002&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dangnhatminh09032002&theme=github)
