@@ -17,12 +17,12 @@ const GetAboutMe() : any => {
 ```
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dangnhatminh09032002&show_icons=true&theme=dark" alt="dangnhatminh09032002" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=me-dangnhatminh&show_icons=true&theme=dark" alt="me-dangnhatminh" />
 <div/>
 <br />
   
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangnhatminh09032002&layout=compact&hide=html&theme=dark" alt="dangnhatminh09032002" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-dangnhatminh&layout=compact&hide=html&theme=dark" alt="me-dangnhatminh" />
 <div/>
 <br />
     
