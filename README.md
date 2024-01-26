@@ -4,7 +4,7 @@
 ```TypeScript
 const GetAboutMe() : any => {
     string Name = "Đặng Nhật Minh",
-    string Age = "2004",
+    string Age = "2002",
     string Gender = "Male",
     string Address = "Kỳ Anh, Hà Tĩnh",
     let Skills = {
