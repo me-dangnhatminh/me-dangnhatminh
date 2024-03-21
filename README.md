@@ -15,15 +15,3 @@ const GetAboutMe() : any => {
     }
 }
 ```
-
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=me-dangnhatminh&show_icons=true&theme=dark" alt="me-dangnhatminh" />
-<div/>
-<br />
-  
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-dangnhatminh&layout=compact&hide=html&theme=dark" alt="me-dangnhatminh" />
-<div/>
-<br />
-    
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=dangnhatminh09032002&repo=dangnhatminh0902002&countColor=%237B1E7A)
