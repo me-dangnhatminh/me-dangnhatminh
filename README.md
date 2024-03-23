@@ -8,8 +8,8 @@ const GetAboutMe() : any => {
     string Gender = "Male",
     string Address = "Kỳ Anh, Hà Tĩnh",
     let Skills = {
-        string FrontEnd = "ReactJs, Redux, Redux Saga, AngularJS",
-        string Backend = "NodeJs, NestJs, DotNet",
+        string FrontEnd = "ReactJs, Redux, Redux-Saga, AngularJS, React Query",
+        string Backend = "NodeJs, NestJs, .Net, Spring boot",
         string Database = "MySQL, MongoDB, PostgreSQL",
         string DevOps = "Docker, Linux OS, NGINX"
     }
