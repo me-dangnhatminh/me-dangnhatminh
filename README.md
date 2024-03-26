@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 ```TypeScript
-const GetAboutMe() : any => {
+const GetAboutMe() : unknown => {
     string Name = "Đặng Nhật Minh",
     string Age = "2002",
     string Gender = "Male",
