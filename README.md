@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-
+I'm trying again, please wait for me?
 ```TypeScript
 const GetAboutMe() : unknown => {
     string Name = "Đặng Nhật Minh",
